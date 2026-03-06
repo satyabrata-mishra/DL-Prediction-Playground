@@ -8,3 +8,7 @@
 *.png
 *.jpg
 *.jpeg
+
+*.pkl
+*.keras
+*.json
